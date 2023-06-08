@@ -1,0 +1,11 @@
+nav{
+    background-color: #004EFF;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 100%;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}

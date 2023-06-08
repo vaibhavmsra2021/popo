@@ -1,0 +1,17 @@
+.container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+}
+input{
+    background-color: white;
+    border: solid white 2px;
+    border-radius: 25px;
+    padding: 10px 10px;
+}
+img{
+    width: 50px;
+    border: solid white 2px;
+    border-radius: 100px;
+}

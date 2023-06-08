@@ -1,0 +1,10 @@
+.container{
+    background-color: aqua;
+    color: black;
+    display: flex;
+    justify-content: end;
+}
+.container2{
+    display: flex;
+    justify-content: end;
+}
